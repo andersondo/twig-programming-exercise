@@ -1,0 +1,14 @@
+{
+  "name": "group-array-elements",
+  "version": "1.0.0",
+  "description": "Function that accepts an array and a positive integer N. Returns the contents of the array divided into N arrays. When the array cannot be divided equally the last array will contain the remainder.",
+  "main": "src/groupArrayElements.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Donald Anderson",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
